@@ -1,4 +1,3 @@
-# testing-Overlay-Network-in-OCI### Docker Overlay Networking - README
 
 #### Introduction:
 
